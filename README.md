@@ -24,11 +24,11 @@ The goal of this project is to merge tangible interaction with digital processin
 
 ---
 
-## 🌐 Connect with Us
-We’d love to connect and share ideas!  
+## 👨‍💻 Contributors:
+Special thanks to : 
 
-- [Aya]()  
-- [Bayan]()  
+- **Aya ALbadawe** [LinkedIn](https://www.linkedin.com/in/aya-albadawe-428a9938a)
+- **Bayan Jafar**  [LinkedIn](https://www.linkedin.com/in/bayan-jafar-09aa9b24a)
 
 ---
 
