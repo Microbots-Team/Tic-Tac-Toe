@@ -1,5 +1,12 @@
 # ❌⭕ XO – Interactive Physical Tic-Tac-Toe Game
 
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – AI & Robotics Club Open Day
+- **Date:** November 10–11–12, 2025
+
 ## 💡 Project Overview
 **XO** is an interactive physical **Tic-Tac-Toe (XO) game** that allows a player to compete against the computer on a **real-world game board**.  
 The system detects the player's move using **Hall sensors** that identify the placement of **magnetized pieces**.  
@@ -45,6 +52,24 @@ Special thanks to :
 - Add LED indicators for move feedback  
 - Develop a mobile app companion interface  
 - Implement multiplayer online mode  
+
+---
+
+## 📸 Screenshots
+
+
+<img src="images/2.png" alt="Screenshot">
+
+<img src="images/3.png" alt="Screenshot">
+
+<img src="images/4.png" alt="Screenshot">
+
+<img src="images/5.png" alt="Screenshot">
+
+
+---
+## 📸 Demo
+**Coming soon!**
 
 ---
 
