@@ -4,7 +4,7 @@
 
 ## 📅 Project Timeline & Context
 
-- **Event:** FMEE 2025 – AI & Robotics Club Open Day
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
 - **Date:** November 10–11–12, 2025
 
 ## 💡 Project Overview
